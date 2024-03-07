@@ -11,9 +11,8 @@ cd repositoryname
 npm install
 
 Usage Instructions -
-To start the server, run the following command in the terminal from the root of your project directory:
+To start the server, run the following command in the terminal from the root of your project directory. Once the server is running, open a web browser and go to http://localhost:3000 to view the web page served by the server.
 1. node index.js
-Once the server is running, open a web browser and go to http://localhost:3000 to view the web page served by the server.
 
 Code Explanation -
 1. server.js: The main server file that uses Express to create a web server. It defines a route for the root URL (/) and serves the index.html file when this route is accessed.
