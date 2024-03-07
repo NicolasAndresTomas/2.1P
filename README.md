@@ -4,9 +4,9 @@ The goal of this project was to understand the basics of creating web servers wi
 Installation Instructions - 
 To run this project, you need to have Node.js and npm (Node Package Manager) installed on your computer.
 1. Clone the repository to your local machine:
-git clone https://github.com/yourusername/yourrepositoryname.git
+git clone https://github.com/NicolasAndresTomas/sit323_737-2024-t1-prac2p
 2. Navigate to the project directory:
-cd yourrepositoryname
+cd repositoryname
 3. Install the required npm packages:
 npm install
 
