@@ -12,7 +12,7 @@ npm install
 
 Usage Instructions -
 To start the server, run the following command in the terminal from the root of your project directory:
-node index.js
+1. node index.js
 Once the server is running, open a web browser and go to http://localhost:3000 to view the web page served by the server.
 
 Code Explanation -
