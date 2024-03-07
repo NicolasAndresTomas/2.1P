@@ -6,13 +6,13 @@ To run this project, you need to have Node.js and npm (Node Package Manager) ins
 1. Clone the repository to your local machine:
 git clone https://github.com/NicolasAndresTomas/sit323_737-2024-t1-prac2p
 2. Navigate to the project directory:
-cd repositoryname
+- cd repositoryname
 3. Install the required npm packages:
-npm install
+- npm install
 
 Usage Instructions -
 To start the server, run the following command in the terminal from the root of your project directory. Once the server is running, open a web browser and go to http://localhost:3000 to view the web page served by the server.
-1. node index.js
+- node index.js
 
 Code Explanation -
 1. server.js: The main server file that uses Express to create a web server. It defines a route for the root URL (/) and serves the index.html file when this route is accessed.
